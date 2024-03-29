@@ -1,0 +1,35 @@
+.Home{
+ 
+background-image:url(harry-potter-20th-anniversary-return-to-hogwarts-2023-l2.jpg);
+background-repeat:no-repeat;
+background-size: cover;
+color:rgb(255, 255, 255) ;
+}
+ 
+.Casate{
+ 
+    background-image:url(harry_potter_wallpaper_by_linxlover738_d6t5k3d-fullview.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    color:white ;
+    }
+ 
+h1{
+font-style: oblique;
+opacity: 0.7;
+ 
+ 
+}
+.Titolo{
+ 
+    text-align: center;
+    margin-top: 25px;
+}
+ 
+.Bacchette{
+ 
+    background-image:url(fight.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    color:white ;
+}
